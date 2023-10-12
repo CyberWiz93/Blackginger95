@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blackginger95
+- 👋 Hi, I’m @CyberWiz93
 - 👀 I’m interested in cybersecurity. Video games, and painting minis.
 - 🌱 I’m currently learning python, kali, lunix in general, electronics, rasberry pi 400 stuff, Your basic computer geek. 
 - 💞️ I’m looking to collaborate on, tips on how not to make my code a mess?
